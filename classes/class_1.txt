@@ -1,0 +1,8 @@
+Class: Student
+
+name (string)
+age (string)
+grade (integer)
+subjects (array)
+hair_color (string)
+can_graduate (boolean)
