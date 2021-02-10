@@ -1,0 +1,13 @@
+Chalkboard: ScienceRoomChalkboard
+
+height = 42
+width = 36
+is_dirty = true
+items_written = ["Welcome to Grade 3 Science!", "Did you know that bats SEE with their EARS?"]
+
+Methods:
+
+height.increase_height (height = 50
+.calculate_size (retrieves 50 * 36)
+.clean: (is_dirty = false)
+.write_item("Let's get ready to LEARN!!") (items_written = ["Welcome to Grade 3 Science!", "Did you know that bats SEE with their EARS?", "Let's get ready to LEARN!!"])
