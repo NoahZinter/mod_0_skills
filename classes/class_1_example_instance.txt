@@ -1,0 +1,15 @@
+Student: NoahZinter
+
+name = "Noah Zinter"
+age = 34
+grade = 16
+subjects = ["Construction", "Back-End Programming", "Beekeeping", "Guitar"]
+hair_color = "Gray"
+can_graduate = false
+
+Methods:
+
+age.increase_age (changes age attribute to 35)
+subjects.add_subject("Fung Shui") (updates subjects to ["Construction", "Back-End Programming", "Beekeeping", "Guitar", "Fung Shui"])
+hair_color.change_hair (changes hair_color attribute to "Black")
+can_graduate.confirm_graduation (updates can_graduate to true)
