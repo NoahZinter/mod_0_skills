@@ -6,3 +6,10 @@ grade (integer)
 subjects (array)
 hair_color (string)
 can_graduate (boolean)
+
+Methods:
+
+.increase_age (increases age attribute by 1)
+.add_subject (adds new string to subjects array)
+.change_hair (changes hair_color attribute)
+.confirm_graduation (updates can_graduate to true)
