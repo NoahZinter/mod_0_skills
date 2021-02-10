@@ -1,0 +1,12 @@
+Class: Chalkboard
+
+height (integer)
+width (integer)
+is_dirty (boolean)
+items_written (array)
+
+Methods:
+.increase_height (modifies height attribute)
+.calculate_size (retrieves height * width)
+.clean (updates is_dirty to false)
+.write_item (adds item to items_written array)
