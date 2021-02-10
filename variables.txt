@@ -1,0 +1,10 @@
+famous_person = "Pauly Shore"
+is_actice = false
+famous_person = "David Hasselhoff"
+num_3 = 300
+num_9 = 900
+sum = num_3 + num_9
+
+animals = ["Goat", "Llama", "Pig"]
+animals = ["Goat", "Llama", "Pig"][1..-1]
+'puts famous_person.length'
